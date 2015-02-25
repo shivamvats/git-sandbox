@@ -8,4 +8,5 @@ maintain the alphabetic order and it should be in the format `your name <email
 id>`.
 
 Harsh Gupta <gupta.harsh96@gmail.com>
+
 Shivam Vasts <shivamvats.iitkgp@gmail.com>
